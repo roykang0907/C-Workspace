@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/roy/Documents/GitHub/C-Workspace/output/prac'
+relocations:     []
+...
